@@ -2,5 +2,5 @@ pandas==2.2.2
 seaborn==0.13.2
 streamlit==1.34.0
 plotly.express
-matplotlib.pyplot
+matplotlib.pyplot==3.8.4
 plotly.graph_objects
